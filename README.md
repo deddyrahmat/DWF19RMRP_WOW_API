@@ -1,10 +1,10 @@
-# :tada: Welcome to My project Waysbeans :tada:
+# :bell: Welcome to My project Window of World :bell:
 
 Hello All, My name is Deddy Rahmat <br />
 I am an Fullstack Developer
 <br />
 
-## :bell: About My Project :bell:
+## About My Project
 
 Window of World is a platform online provides book to develop the skills and knowledge they need to success.
 
